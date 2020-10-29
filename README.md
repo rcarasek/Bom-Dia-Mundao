@@ -3,7 +3,7 @@
 
 coloquei mais uma linha diretamente pelo GH
 
-**negrito**
+**negrito** 
 *italico*
 # t1
 ## t2
