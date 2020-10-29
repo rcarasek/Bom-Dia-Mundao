@@ -27,6 +27,8 @@ coloquei mais uma linha diretamente pelo GH
    * tres.dois
 
 
+https://docs.github.com/pt/free-pro-team@latest/github/managing-your-work-on-github/about-task-lists
+
 **LISTA DE TAREFAS**
 ---
 
