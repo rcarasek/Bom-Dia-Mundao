@@ -52,5 +52,26 @@ id|nome|nota
 04|marta|10
 
 emoji
+https://github.com/ikatyang/emoji-cheat-sheet
 ---
 ola 	:innocent:
+
+
+Face Glasses
+ico	shortcode	ico	shortcode	
+top	😎	:sunglasses:	🤓	:nerd_face:	top
+top	🧐	:monocle_face:			top
+
+
+Hand Fingers Open
+ico	shortcode	ico	shortcode	
+top	👋	:wave:	🤚	:raised_back_of_hand:	top
+top	🖐️	:raised_hand_with_fingers_splayed:	✋	:hand:
+:raised_hand:	top
+top	🖖	:vulcan_salute:			top
+Hand Fingers Partial
+ico	shortcode	ico	shortcode	
+top	👌	:ok_hand:	🤏	:pinching_hand:	top
+top	✌️	:v:	🤞	:crossed_fingers:	top
+top	🤟	:love_you_gesture:	🤘	:metal:	top
+top	🤙	:call_me_hand:
