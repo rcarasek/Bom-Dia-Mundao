@@ -27,7 +27,9 @@ coloquei mais uma linha diretamente pelo GH
    * tres.dois
 
 
-LISTA DE TAREFAS
+**LISTA DE TAREFAS**
+---
+
 -[X] TAREFA
 -[X] TAREFA
 -[] TAREFA
