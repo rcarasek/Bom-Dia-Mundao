@@ -28,14 +28,14 @@ coloquei mais uma linha diretamente pelo GH
 
 
 LISTA DE TAREFAS
+-[X] TAREFA
+-[X] TAREFA
 -[] TAREFA
 -[] TAREFA
 -[] TAREFA
 -[] TAREFA
--[] TAREFA
--[] TAREFA
-   -[] TAREFA
-   -[] TAREFA
+   -[X] TAREFA
+   -[X] TAREFA
    -[] TAREFA
 
 
