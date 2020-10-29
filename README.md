@@ -24,5 +24,18 @@ coloquei mais uma linha diretamente pelo GH
 * linha 2
 * linha 3
    * tres.um
-   *tres.dois
+   * tres.dois
+
+
+LISTA DE TAREFAS
+-[] TAREFA
+-[] TAREFA
+-[] TAREFA
+-[] TAREFA
+-[] TAREFA
+-[] TAREFA
+   -[] TAREFA
+   -[] TAREFA
+   -[] TAREFA
+
 
