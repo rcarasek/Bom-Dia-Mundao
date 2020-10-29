@@ -50,3 +50,6 @@ id|nome|nota
 02|maria|9
 03|joao|8
 04|marta|10
+
+emoji
+---
