@@ -53,3 +53,4 @@ id|nome|nota
 
 emoji
 ---
+ola 	:innocent:
