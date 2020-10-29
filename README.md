@@ -42,3 +42,11 @@ https://docs.github.com/pt/free-pro-team@latest/github/managing-your-work-on-git
    - [ ] TAREFA
 
 
+tabela
+***
+id|nome|nota
+---|---|---
+01|zé|10
+02|maria|9
+03|joao|8
+04|marta|10
