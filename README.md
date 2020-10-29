@@ -1,7 +1,9 @@
 # Bom Dia Mundão veio!
- aula do gustavo guanabara
+---
 
+aula do gustavo guanabara
 coloquei mais uma linha diretamente pelo GH
+***
 
 **negrito** 
 *italico*
@@ -16,4 +18,11 @@ coloquei mais uma linha diretamente pelo GH
 1. linha 3
    1. tres.um
    1. tres.dois
-   
+
+
+* linha 1
+* linha 2
+* linha 3
+   * tres.um
+   *tres.dois
+
