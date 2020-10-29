@@ -33,12 +33,12 @@ https://docs.github.com/pt/free-pro-team@latest/github/managing-your-work-on-git
 ---
 - [X] TAREFA
 - [X] TAREFA
-- [] TAREFA
-- [] TAREFA
-- [] TAREFA
-- [] TAREFA
+- [ ] TAREFA
+- [ ] TAREFA
+- [ ] TAREFA
+- [ ] TAREFA
    - [X] TAREFA
    - [X] TAREFA
-   - [] TAREFA
+   - [ ] TAREFA
 
 
